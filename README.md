@@ -1,5 +1,12 @@
 # 🔗 Serverless API with AWS Lambda & API Gateway
 
+[![Terraform](https://img.shields.io/badge/IaC-Terraform-623CE4?logo=terraform)](https://www.terraform.io/)
+[![AWS Lambda](https://img.shields.io/badge/AWS-Lambda-FF9900?logo=aws-lambda)](https://aws.amazon.com/lambda/)
+[![API Gateway](https://img.shields.io/badge/API-Gateway-FF4F8B?logo=amazon-aws)](https://aws.amazon.com/api-gateway/)
+[![DynamoDB](https://img.shields.io/badge/Database-DynamoDB-4053D6?logo=amazon-dynamodb)](https://aws.amazon.com/dynamodb/)
+[![CloudWatch](https://img.shields.io/badge/Monitoring-CloudWatch-FF4F00?logo=amazon-aws)](https://aws.amazon.com/cloudwatch/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 A fully serverless REST API built with Terraform, using:
 - ⚙️ AWS Lambda
 - 🌐 API Gateway
