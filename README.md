@@ -24,7 +24,7 @@ This API exposes a public `/hello` endpoint that triggers a Lambda function, log
 
 - Serverless REST API using AWS Lambda + API Gateway
 - Logs every request to DynamoDB (UUID, timestamp, user agent)
-- CloudWatch log group with 14-day retention
+- CloudWatch log group with 14 day retention
 - CLI automation scripts for fast deployment and teardown
 - Clean, modular Terraform code with outputs and variables
 
